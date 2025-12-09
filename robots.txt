@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seusite.com.br/sitemap.xml
+Sitemap: https://renangomes01.github.io/JK-Solu-es-em-TI/sitemap.xml
 
