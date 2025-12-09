@@ -1,0 +1,30 @@
+{
+  "name": "jk-solucoes",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/copy-gh-pages-files.cjs",
+    "preview": "vite preview",
+    "lint": "echo \"no lint configured\"",
+    "deploy": "npm run build && npm run deploy:gh",
+    "deploy:gh": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.469.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "autoprefixer": "^10.4.20",
+    "gh": "^2.8.9",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.4.8"
+  }
+}
