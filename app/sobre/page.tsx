@@ -4,6 +4,7 @@ import { Card, CardContent } from '@/components/ui/card'
 import { ScrollReveal } from '@/components/animations/scroll-reveal'
 import Image from 'next/image'
 import { Target, Eye, Heart, Shield, Award, Users, TrendingUp } from 'lucide-react'
+import { getImagePath } from '@/lib/utils'
 
 // Função para calcular anos de experiência desde a fundação
 function getYearsOfExperience(foundationYear: number): number {
@@ -50,7 +51,7 @@ export default function SobrePage() {
             <ScrollReveal direction="right">
               <div className="relative bg-gray-200 rounded-2xl overflow-hidden h-[400px]">
                 <Image
-                  src="/img/sobre.jpeg"
+                  src={getImagePath("/img/sobre.jpeg")}
                   alt="História e compromisso da JK SOLUÇÕES EM TI"
                   fill
                   className="object-cover rounded-2xl"

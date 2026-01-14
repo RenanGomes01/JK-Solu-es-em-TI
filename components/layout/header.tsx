@@ -4,7 +4,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { usePathname } from 'next/navigation'
 import { Button } from '@/components/ui/button'
-import { cn } from '@/lib/utils'
+import { cn, getImagePath } from '@/lib/utils'
 
 export function Header() {
   const pathname = usePathname()
@@ -18,7 +18,7 @@ export function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center">
               <Image
-                src="/img/logo_em_preto.png.png"
+                src={getImagePath("/img/logo_em_preto.png.png")}
                 alt="JK SOLUÇÕES EM TI"
                 width={300}
                 height={100}

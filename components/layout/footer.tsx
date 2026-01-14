@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { Phone, Mail, Clock, MapPin, Facebook, Twitter, Instagram } from 'lucide-react'
+import { getImagePath } from '@/lib/utils'
 
 export function Footer() {
   return (
@@ -11,7 +12,7 @@ export function Footer() {
           <div>
             <Link href="/" className="flex items-center mb-4">
               <Image
-                src="/img/logo_em_branco.png.png"
+                src={getImagePath("/img/logo_em_branco.png.png")}
                 alt="JK SOLUÇÕES EM TI"
                 width={350}
                 height={150}

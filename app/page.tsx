@@ -4,6 +4,7 @@ import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { ScrollReveal } from '@/components/animations/scroll-reveal'
 import Image from 'next/image'
+import { getImagePath } from '@/lib/utils'
 import { 
   CheckCircle, 
   Award, 
@@ -114,7 +115,7 @@ export default function HomePage() {
                 <div className="relative bg-gray-200 rounded-2xl overflow-visible h-[500px]">
                   {/* Imagem principal */}
                   <Image
-                    src="/img/principal.jpeg"
+                    src={getImagePath("/img/principal.jpeg")}
                     alt="Equipe JK SOLUÇÕES EM TI"
                     fill
                     className="object-cover rounded-2xl"
