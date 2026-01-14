@@ -1,0 +1,513 @@
+# Translation of Themes - CoziPress in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - CoziPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-12 10:34:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - CoziPress\n"
+
+#. Description of the theme
+msgid "CoziPress is a Modern Multipurpose Business theme for Agency, Business, Finance, Consulting, Factory, Real Estate, Construction, Cleaning Service, Startup or any other individual website due to its adaptability. It looks perfect on all modern browsers, mobile, tablets, and any device, Theme is full of customization options and settings, you can change almost everything. CoziPress provides unique layouts Such as Service, Team, About, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon, Careers Page, and many more. If you are a lover of creative designs and would like to build a very unique and professional website quickly then your search should end at CoziPress. Checkout Pro Version https://burgerthemes.com/demo/pro/cozipress/"
+msgstr "CoziPress é um tema de negócios modernos polivalentes para agências, negócios, finanças, consultoria, fábrica, imobiliário, construção, serviço de limpeza, startup ou qualquer outro site individual devido à sua adaptabilidade. Parece perfeito em todos os navegadores modernos, celulares, tablets e qualquer dispositivo, o tema está cheio de opções de personalização e configurações, você pode alterar quase tudo. CoziPress oferece layouts exclusivos como serviço, equipe, sobre, galeria, páginas de blog, páginas de loja, páginas de preços, página de contato, Em breve, página de carreiras e muito mais. Se você é um amante de designs criativos e gostaria de construir um site único e profissional rapidamente, sua busca deve terminar na CoziPress. Versão Pro do Checkout https://burgerthemes.com/demo/pro/cozipress/"
+
+#. Theme Name of the theme
+msgid "CoziPress"
+msgstr "CoziPress"
+
+#: footer.php:56
+msgid "<a href=\"#\">CoziPress</a>"
+msgstr "<a href=\"#\">CoziPress</a>"
+
+#: inc/extras.php:357
+msgid "Get started with CoziPress"
+msgstr "Comece com CoziPress"
+
+#: inc/extras.php:355
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Instale e ative o plugin <strong>Burger Companion</strong> para aproveitar ao máximo todos os recursos que este tema tem a oferecer."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:351
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Bem-vinda! Obrigado por escolher %1$s!"
+
+#: inc/extras.php:344
+msgid "Theme Screenshot"
+msgstr "Tela do tema"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in CoziPress Pro"
+msgstr "Obtenha mais recursos no CoziPress Pro"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: inc/extras.php:306
+msgid "Page"
+msgstr "Página"
+
+#: inc/extras.php:301
+msgid "Error 404 "
+msgstr "Erro 404"
+
+#: inc/extras.php:297
+msgid "Articles posted by "
+msgstr "Artigos publicados por"
+
+#: inc/extras.php:291
+msgid "Posts tagged "
+msgstr "Posts marcados"
+
+#: inc/extras.php:188
+msgid "Search results for "
+msgstr "Pesquisar por"
+
+#: inc/extras.php:182
+msgid "Archive by category"
+msgstr "Arquivo por categoria"
+
+#: inc/extras.php:162
+msgid "Home"
+msgstr "Página inicial"
+
+#: inc/extras.php:160 inc/extras.php:163
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:128
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/extras.php:124
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: inc/extras.php:120
+msgid "Tag Archives: %s"
+msgstr "Arquivo da tag: %s"
+
+#: inc/extras.php:116
+msgid "Category Archives: %s"
+msgstr "Arquivo da categoria: %s"
+
+#: inc/extras.php:112
+msgid "Yearly Archives: %s"
+msgstr "Arquivo anual: %s"
+
+#: inc/extras.php:108
+msgid "Monthly Archives: %s"
+msgstr "Arquivo mensal: %s"
+
+#: inc/extras.php:104
+msgid "Daily Archives: %s"
+msgstr "Arquivo diários: %s"
+
+#: inc/customizer/customizer-notify/cozipress-notify.php:111
+msgid "Activating"
+msgstr "Ativar"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:137
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:117
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:97
+#: inc/customizer/customizer-options/cozipress-footer.php:170
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:19
+msgid "Blog Section"
+msgstr "Seção Blog"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:10
+msgid "Frontpage Sections"
+msgstr "Seções da página inicial"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:320
+msgid "Margin Bottom"
+msgstr "Margem Inferior"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:301
+msgid "Content"
+msgstr "Conteúdo"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:280
+msgid "Enable / Disable parallax ?"
+msgstr "Ativar / desativar paralaxe?"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:242
+msgid "Footer Parallax"
+msgstr "Rodapé Paralaxe"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:216
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Distribuído por [theme_author]"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:210
+#: inc/customizer/customizer-options/cozipress-footer.php:230
+msgid "Copyright"
+msgstr "Créditos"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:189
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:149
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:110
+msgid "Support"
+msgstr "Suporte"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:91
+msgid "Footer Bottom"
+msgstr "Rodapé inferior"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:18
+msgid "Footer Background"
+msgstr "Fundo do Rodapé"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:10
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Ativar"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Instalar e ativar"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Plugins recomendados"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Ações recomendadas"
+
+#: inc/customizer/customizer-options/cozipress_recommended_plugin.php:10
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer CoziPress."
+msgstr "Instale e ative o plugin <strong>Burger Companion</strong> para aproveitar ao máximo todos os recursos que este tema tem a oferecer ao CoziPress."
+
+#: inc/customizer/customizer-options/cozipress-footer.php:82
+#: inc/customizer/customizer-options/cozipress-general.php:121
+msgid "Fixed"
+msgstr "Fixo"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:81
+#: inc/customizer/customizer-options/cozipress-general.php:120
+msgid "Scroll"
+msgstr "Rolar"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:80
+#: inc/customizer/customizer-options/cozipress-general.php:119
+msgid "Inherit"
+msgstr "Herdar"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:75
+#: inc/customizer/customizer-options/cozipress-general.php:113
+msgid "Background Attachment"
+msgstr "Anexo de Fundo"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:56
+#: inc/customizer/customizer-options/cozipress-general.php:94
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customizer/customizer-options/cozipress-footer.php:38
+#: inc/customizer/customizer-options/cozipress-general.php:76
+msgid "Background"
+msgstr "Fundo"
+
+#: inc/customizer/customizer-options/cozipress-general.php:55
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar seção"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:40
+#: inc/customizer/customizer-options/cozipress-footer.php:262
+#: inc/customizer/customizer-options/cozipress-general.php:35
+msgid "Settings"
+msgstr "Configurações"
+
+#: inc/customizer/customizer-options/cozipress-general.php:16
+msgid "Breadcrumb Section"
+msgstr "Seção Breadcrumb"
+
+#: inc/customizer/customizer-options/cozipress-general.php:7
+msgid "General"
+msgstr "Geral"
+
+#: inc/customizer/customizer-options/cozipress-header.php:125
+#: inc/customizer/customizer-options/cozipress-header.php:144
+msgid "Sticky Header"
+msgstr "Cabeçalho fixo"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:58
+#: inc/customizer/customizer-options/cozipress-footer.php:129
+#: inc/customizer/customizer-options/cozipress-header.php:71
+#: inc/customizer/customizer-options/cozipress-header.php:111
+#: inc/customizer/customizer-options/cozipress-header.php:161
+msgid "Hide/Show"
+msgstr "Ocultar/Mostrar"
+
+#: inc/customizer/customizer-options/cozipress-header.php:52
+msgid "Cart"
+msgstr "Carrinho"
+
+#: inc/customizer/customizer-options/cozipress-header.php:34
+msgid "Header Navigation"
+msgstr "Navegação de cabeçalho"
+
+#: inc/customizer/customizer-options/cozipress-header.php:23
+msgid "Site Identity"
+msgstr "Identidade do site"
+
+#: inc/customizer/customizer-options/cozipress-blog.php:78
+#: inc/customizer/customizer-options/cozipress-header.php:12
+msgid "Header"
+msgstr "Cabeçalho"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário<span class=\"screen-reader-text\"> em %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Publicado em %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado em %s"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "Adicionar ao menu"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: 404.php:21
+msgid "Go to Home"
+msgstr "Ir para casa"
+
+#: 404.php:19
+msgid "The page you were looking for could not be found."
+msgstr "A página que você está procurando não pode ser encontrada"
+
+#: 404.php:18
+msgid "4"
+msgstr "4"
+
+#: 404.php:17
+msgid "s"
+msgstr "s"
+
+#: 404.php:17
+msgid "pp"
+msgstr "pp"
+
+#: 404.php:17
+msgid "O"
+msgstr "O"
+
+#: functions.php:128
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Esta área de widget para WooCommerce Widget"
+
+#: functions.php:126
+msgid "WooCommerce Widget Area"
+msgstr "Área do Widget WooCommerce"
+
+#: functions.php:117
+msgid "The Footer Widget Area"
+msgstr "Área de Widgets do rodapé"
+
+#: functions.php:115
+msgid "Footer Widget Area"
+msgstr "Área de Widgets do rodapé"
+
+#: functions.php:107
+msgid "The Primary Widget Area"
+msgstr "Área de widgets primária"
+
+#: functions.php:105
+msgid "Sidebar Widget Area"
+msgstr "Área do Widget da Barra Lateral"
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Página inicial"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Página em largura total"
+
+#: inc/customizer/customizer-options/cozipress-header.php:91 searchform.php:15
+msgid "Search"
+msgstr "Pesquisar"
+
+#: searchform.php:13
+msgid "Search …"
+msgstr "Pesquise ..."
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Pesquisa por:"
+
+#: woocommerce/content-product.php:55
+msgid "out of 5"
+msgstr "de 5"
+
+#: woocommerce/content-product.php:55
+msgid "Rated %s out of 5"
+msgstr "Avaliado %s de 5"
+
+#: woocommerce/content-product.php:36
+msgid "Sale"
+msgstr "Venda"
+
+#: woocommerce/cart/mini-cart.php:126 woocommerce/cart/mini-cart.php:258
+msgid "No products in the cart."
+msgstr "Nenhum produto no carrinho."
+
+#: woocommerce/cart/mini-cart.php:101 woocommerce/cart/mini-cart.php:233
+msgid "Checkout"
+msgstr "Caixa"
+
+#: woocommerce/cart/mini-cart.php:60 woocommerce/cart/mini-cart.php:193
+msgid "Remove this item"
+msgstr "Remover este item"
+
+#: woocommerce/cart/mini-cart.php:35 woocommerce/cart/mini-cart.php:168
+msgid "Total:"
+msgstr "Total:"
+
+#: template-parts/content/content.php:38
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não conseguimos encontrar o que você está procurando. Talvez pesquisar possa ajudar."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas nada corresponde aos seus termos de pesquisa. Por favor, tente novamente com algumas palavras-chave diferentes."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: template-parts/content/content-page-grid.php:53
+#: template-parts/content/content-page.php:53
+#: template-parts/content/content-search.php:53
+msgid "Read More"
+msgstr "Leia mais"
+
+#: template-parts/sections/section-header.php:176
+msgid "Header Above Collapse"
+msgstr "Retrair cabeçalho de cima"
+
+#: template-parts/sections/section-header.php:171
+msgid "Header Close Menu"
+msgstr "Cabeçalho Fechar Menu"
+
+#: template-parts/sections/section-header.php:162
+msgid "Menu Collaped"
+msgstr "Recolher Menu"
+
+#: template-parts/sections/section-header.php:110
+msgid "Search Popup Close"
+msgstr "Fechar popup pesquisar"
+
+#: template-parts/sections/section-header.php:107
+msgid "Type To Search"
+msgstr "Digite para pesquisa"
+
+#: template-parts/sections/section-header.php:106
+msgid "Site Search"
+msgstr "Pesquisa so site"
+
+#: template-parts/sections/section-header.php:101
+msgid "Search Popup"
+msgstr "Pesquisa Popup"
+
+#: inc/extras.php:81 template-parts/sections/section-header.php:82
+#: woocommerce/cart/mini-cart.php:28 woocommerce/cart/mini-cart.php:114
+#: woocommerce/cart/mini-cart.php:161 woocommerce/cart/mini-cart.php:246
+msgid "0"
+msgstr "0"
+
+#. Author URI of the theme
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://burgerthemes.com/cozipress-free/"
+msgstr "https://burgerthemes.com/cozipress-free/"
+
+#. Author of the theme
+msgid "burgersoftware"
+msgstr "burgersoftware"

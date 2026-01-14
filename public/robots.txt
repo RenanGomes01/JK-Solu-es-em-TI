@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.jksolucoesemti.com.br/sitemap.xml
+
+
